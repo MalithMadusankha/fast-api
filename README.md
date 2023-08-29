@@ -1,4 +1,4 @@
-# qr-analyzer-fast-api
+# fast-api for Deployment
 
 This is student result prediction application
 
